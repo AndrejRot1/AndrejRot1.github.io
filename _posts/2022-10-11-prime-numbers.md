@@ -31,3 +31,7 @@ def split_into_primes(num = int):
             set_of_primes.append(index)
     return set_of_primes
 ```
+<p>
+    for index in range(1,10):
+        print(index)
+</p>
