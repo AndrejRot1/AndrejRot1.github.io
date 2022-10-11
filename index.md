@@ -1,3 +1,4 @@
-Welcome! 
+Welcome! My name is Andrej and I'm  Software Developer.
 
-My name is Andrej and in this blog I will teach you about python programing language. 
+In this blog I will teach you about Python programing language. 
+
