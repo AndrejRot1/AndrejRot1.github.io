@@ -1,4 +1,5 @@
 Let's have some fun with prime numbers !
+
 ```
 # Find if a number is prime or not
 
