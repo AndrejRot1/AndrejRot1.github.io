@@ -48,3 +48,8 @@ function add(a,b) {
  FROM sys.tables
  WHERE [name] = 'SomeTable'
  ```
+ 
+ 
+def test(a,b):
+    for index in range(a,b + 1):
+        print(index)
