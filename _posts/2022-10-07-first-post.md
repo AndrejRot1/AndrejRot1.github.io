@@ -20,6 +20,11 @@ and get back
 5
 
 ```
+Now we can make a function for sub. with two parameters
 
+```
+def sub(a,b):
+  return a - b
+```
 
 
