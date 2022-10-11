@@ -1,7 +1,7 @@
 
->
+
 1. Download the Python Installer binaries. ...
 2. Run the Executable Installer. ...
 3. Add Python to environmental variables. ...
 4. Verify the Python Installation.
->
+
