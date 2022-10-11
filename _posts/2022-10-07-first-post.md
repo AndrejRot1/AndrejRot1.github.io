@@ -22,7 +22,7 @@ and get back
 ```
 Now we can make a function for sub. with two parameters
 
-```
+```python
 def sub(a,b):
   return a - b
 ```
