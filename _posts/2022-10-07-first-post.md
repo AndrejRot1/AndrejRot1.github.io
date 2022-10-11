@@ -27,4 +27,10 @@ def sub(a,b):
   return a - b
 ```
 
+```python
+
+for index in range(0,10):
+  print(index)
+
+```
 
