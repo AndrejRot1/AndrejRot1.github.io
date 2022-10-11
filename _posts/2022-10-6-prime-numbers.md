@@ -1,5 +1,5 @@
 Let's have some fun with prime numbers !
-
+```
 # Find if a number is prime or not
 
 def prime(num = int):
@@ -26,3 +26,4 @@ def split_into_primes(num = int):
         if prime == True:
             set_of_primes.append(index)
     return set_of_primes
+```
