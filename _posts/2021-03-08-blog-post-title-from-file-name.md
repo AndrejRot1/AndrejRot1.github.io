@@ -31,12 +31,12 @@ ForEach ($thing in $things) {
 }
 ```
 
-```python
+```
 for index in range(1,10):
     print(index)
  ```
 
-```js
+```
 function add(a,b) {
     console.log(a + b)
  }
