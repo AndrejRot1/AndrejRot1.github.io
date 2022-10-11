@@ -21,11 +21,5 @@ and get back
 
 ```
 
-```
-def add(a,b):
-  return a + b
-```
 
-test
-[Link to my home page](https://www.rdeci-zmaj.com/)
 
