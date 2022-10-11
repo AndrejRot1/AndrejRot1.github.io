@@ -49,7 +49,8 @@ function add(a,b) {
  WHERE [name] = 'SomeTable'
  ```
  
- 
+```
 def test(a,b):
     for index in range(a,b + 1):
         print(index)
+```
