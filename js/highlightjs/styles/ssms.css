@@ -6,6 +6,14 @@
     color: #808080;
 }
 
+.hljs.language-python {
+    display: block;
+    overflow-x: auto;
+    padding: 0.5em;
+    background: white;
+    color: #808080;
+}
+
 .language-tsql .hljs-keyword {
     color: #0000ff;
     font-weight: normal;
