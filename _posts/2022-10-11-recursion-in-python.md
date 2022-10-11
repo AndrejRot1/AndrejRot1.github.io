@@ -1,6 +1,9 @@
 # Lets do a recursion 
 
 ```
-def factorial(n):
-	return n
+book = [1,2,3,'banana']
+
+for  index in book:
+    print(index,end=',')
+
 ```
