@@ -30,3 +30,8 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
+
+```python
+for index in range(1,10):
+    print(index)
+ ```
