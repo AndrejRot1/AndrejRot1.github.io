@@ -35,3 +35,9 @@ ForEach ($thing in $things) {
 for index in range(1,10):
     print(index)
  ```
+
+```js
+function add(a,b) {
+    console.log(a + b)
+ }
+ 
