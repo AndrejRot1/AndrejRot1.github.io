@@ -2,7 +2,7 @@
 
 Let's make a simple function in Python
 
-```
+```python
 def add(a,b):
   return a + b
 ```
