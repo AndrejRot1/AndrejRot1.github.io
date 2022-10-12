@@ -3,8 +3,11 @@ hr {
   margin-bottom: 20px;
 }
 
-.highlight {
-  color:white;
+pre, code {
+    font-size: 15px;
+    border: 1px solid #eef;
+    border-radius: 3px;
+    background-color: #e8e8e8;
 }
 
 /* Post navigation links */
