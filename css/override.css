@@ -3,6 +3,10 @@ hr {
   margin-bottom: 20px;
 }
 
+.highlight {
+  color:white;
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
