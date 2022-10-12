@@ -11,7 +11,7 @@
     overflow-x: auto;
     padding: 0.5em;
     background: white;
-    color: #808080;
+    color: white;
 }
 
 .language-tsql .hljs-keyword {
