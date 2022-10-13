@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Blog Archive
-title: Search
 ---
 
 {% for tag in site.tags %}
